@@ -25,7 +25,7 @@ TODO
 Currently only two languages are supported:
 
 * English (US)
-* Russia (RU)
+* Russian (RU)
 
 So only these flags are showing. 
 
@@ -38,4 +38,4 @@ If you wish to add new languages please create an issue here
 or contact me.
 
 
-*<3*
+**<3**
