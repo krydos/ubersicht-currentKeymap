@@ -3,6 +3,8 @@ Ubersicht Current Keymap widget
 
 Screenshots
 -----------
+![screenshot](./screenshot.png)
+
 US keymap:
 
 ![screenshot 1](./screenshot1.png)
